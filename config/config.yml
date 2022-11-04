@@ -1,0 +1,7 @@
+#Pipeline options
+#path to where samples file is stored
+samples_df: "/Users/hhayden-admin/Desktop/hhayden01_GitHub/SnakeMakeTest/config/samples.tsv"
+#path to folder where outputs should be stored
+results: "/Users/hhayden-admin/Desktop/hhayden01_GitHub/SnakeMakeTest/results/"
+#path to directory where large downloads should be stored
+resources: "/Users/hhayden-admin/Desktop/hhayden01_GitHub/Resources/"
